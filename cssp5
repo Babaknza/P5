@@ -1,0 +1,28 @@
+.navbar-text,
+.navbar-brand,
+.navlink{   
+    color: rgb(255, 255, 255) !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    background-color: rgba(255, 84, 22, 0.8) !important;
+}
+
+a{
+
+    background-color: rgba(255, 84, 22, 0.8);
+}
+
+
+img{
+
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+
+    background-color: orange;
+}
